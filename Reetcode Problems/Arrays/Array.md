@@ -3,9 +3,9 @@ Array problems for coding interview
 Problem Sources : https://leetcode.com/
 
 ## 704. Binary Search
-Feb 05, 2024
-https://www.acmicpc.net/problem/1920
-https://leetcode.com/problems/binary-search/
+Feb 05, 2024  
+https://www.acmicpc.net/problem/1920  
+https://leetcode.com/problems/binary-search/  
 
 ## 284. Move Zeros
 Feb 08, 2024
